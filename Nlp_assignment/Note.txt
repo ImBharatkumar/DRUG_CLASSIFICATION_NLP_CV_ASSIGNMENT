@@ -1,0 +1,11 @@
+Thank you for providing such a interesting and challenging tasks.
+if i had more time 
+1) i would have dwelled into analysis part of structure data set , to find out what are the most frequent drugs taken by patients who have taken the "TARGET DRUG".
+2) What are the major symptoms causing to stop taking 'TARGET DRUG" and etc.
+
+FOR NLP_Assignment
+1) I would have built simple application to get the mcq's in whatever format you want
+2) allowing to modify promt text
+3) I would have tried to increase the token size of input to chatgpt.
+
+Thank you
